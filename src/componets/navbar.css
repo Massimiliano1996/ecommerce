@@ -1,0 +1,33 @@
+.Navbar-all{
+   
+    width: auto;
+    padding: 20px;    
+    background-color: #0F1111;
+    flex: auto;
+
+    
+}
+
+.Navbar-mainTitle{
+    text-align: left;
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color:yellow;
+   
+        
+}
+
+
+
+th span{
+    position: relative;
+    color: ghostwhite;
+    border:solid flex;
+    border-color: yellow;
+    border-style:inset;
+    border-radius:5px;
+    
+        
+
+}

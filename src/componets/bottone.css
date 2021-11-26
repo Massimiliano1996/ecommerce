@@ -1,0 +1,57 @@
+button{
+    
+}
+
+.up{
+    margin-bottom: 15px;
+display: inline-block;
+ text-align: center;
+ white-space: nowrap;
+ color: #FFFFFF;
+ text-decoration: none;
+ line-height: 1.2;
+ font-weight: normal;
+ font-family: sans-serif;
+ font-size: 18px;
+ background-color:#0EC730;
+ border-radius: 15px;
+ padding: 11px 14px;
+ border: 1px solid #0EC730;
+ cursor: pointer; 
+ font-size: 24px;
+
+}
+
+.up:hover{
+    background-color: #37ED40;
+        border-color: #37ED40;
+
+}
+
+.down{
+    margin-bottom: 15px;
+display: inline-block;
+ text-align: center;
+ white-space: nowrap;
+ color: #FFFFFF;
+ text-decoration: none;
+ line-height: 1.2;
+ font-weight: normal;
+ font-family: sans-serif;
+ font-size: 18px;
+ background-color: #FF0E0A;
+ border-radius: 15px;
+ padding: 11px 14px;
+ border: 1px solid #FF0E0A;
+ cursor: pointer; 
+ font-size: 24px;
+    
+    
+}
+.down:hover{
+    
+        background-color: #ED6351;
+        border-color: #ED6351;
+    
+
+}
